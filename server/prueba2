@@ -37,32 +37,14 @@
     "links": [
       {
         "link1": {
-          "text": "Discord",
+          "text": "DISCORD",
           "url": "https://discord.com/invite/K7NyrTV"
         }
       },
       {
         "link2": {
-          "text": "Donaciones",
+          "text": "DONACIONES",
           "url": "https://discord.gg/3KapAXbF3B"
-        }
-      },
-      {
-        "link3": {
-          "text": "CurseForge",
-          "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
-        }
-      },
-      {
-        "link4": {
-          "text": "JSON-Validator",
-          "url": "https://jsonlint.com"
-        }
-      },
-      {
-        "link5": {
-          "text": "Github",
-          "url": "https://github.com"
         }
       }
     ]
