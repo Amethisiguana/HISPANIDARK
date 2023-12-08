@@ -1,0 +1,284 @@
+{
+	"Gold shop":
+	{
+		"A001":
+		{
+			"name": "TEKElement",
+			"description": "TEKElement",
+			"price": 600,
+			"pricetype": "gold",
+			"icon": "https://i.imgur.com/POx9axT.png",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element'\"",
+					"quality": 0,
+					"quantity": 100,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A002":
+		{
+			"name": "Estimulante",
+			"description": "",
+			"price": 200,
+			"pricetype": "gold",
+			"icon": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Icons/Stimulant_Icon.Stimulant_Icon",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableRespecSoup.PrimalItemConsumableRespecSoup'\"",
+					"quality": 0,
+					"quantity": 10,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A003":
+		{
+			"name": "TributeAlphaLeedsichthys",
+			"description": "",
+			"price": 500,
+			"pricetype": "gold",
+			"icon": "/Game/PrimalEarth/CoreBlueprints/Resources/Icons/TributeAlphaLeedsichthys_Icon.TributeAlphaLeedsichthys_Icon",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_AlphaLeeds.PrimalItemResource_ApexDrop_AlphaLeeds'\"",
+					"quality": 0,
+					"quantity": 1,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A004":
+		{
+			"name": "ConsumableMiracleGro",
+			"description": "",
+			"price": 500,
+			"pricetype": "gold",
+			"icon": "/Game/PrimalEarth/CoreBlueprints/Resources/Icons/PlantFood_Icon.PlantFood_Icon",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableMiracleGro.PrimalItemConsumableMiracleGro'\"",
+					"quality": 0,
+					"quantity": 500,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A005":
+		{
+			"name": "Fertilizante",
+			"description": "",
+			"price": 1000,
+			"pricetype": "gold",
+			"icon": "/Game/PrimalEarth/CoreBlueprints/Resources/Icons/Fertilizer_Icon.Fertilizer_Icon",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost'\"",
+					"quality": 0,
+					"quantity": 30,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A006":
+		{
+			"name": "Savia",
+			"description": "",
+			"price": 600,
+			"pricetype": "gold",
+			"icon": "/Game/PrimalEarth/CoreBlueprints/Resources/Icons/TreeSap_Icon.TreeSap_Icon",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'\"",
+					"quality": 0,
+					"quantity": 1000,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A007":
+		{
+			"name": "Gasolina",
+			"description": "",
+			"price": 700,
+			"pricetype": "gold",
+			"icon": "/Game/PrimalEarth/Test_Craig/Gasoline_Icon.Gasoline_Icon",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gasoline.PrimalItemResource_Gasoline'\"",
+					"quality": 0,
+					"quantity": 1000,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A009":
+		{
+			"name": "Cemento",
+			"description": "",
+			"price": 1000,
+			"pricetype": "gold",
+			"icon": "/Game/PrimalEarth/CoreBlueprints/Resources/Icons/CementPaste_Icon.CementPaste_Icon",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'\"",
+					"quality": 0,
+					"quantity": 3000,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A010":
+		{
+			"name": "Polímero",
+			"description": "",
+			"price": 1000,
+			"pricetype": "gold",
+			"icon": "/Game/PrimalEarth/CoreBlueprints/Resources/Icons/Polymer_Icon.Polymer_Icon",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer.PrimalItemResource_Polymer'\"",
+					"quality": 0,
+					"quantity": 3000,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A011":
+		{
+			"name": "Electrónica",
+			"description": "",
+			"price": 1000,
+			"pricetype": "gold",
+			"icon": "/Game/PrimalEarth/CoreBlueprints/Resources/Icons/Electronic_Icon.Electronic_Icon",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics'\"",
+					"quality": 0,
+					"quantity": 3000,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A012":
+		{
+			"name": "Madera",
+			"description": "",
+			"price": 1500,
+			"pricetype": "gold",
+			"icon": "/Game/PrimalEarth/CoreBlueprints/Resources/Icons/Wood_Icon.Wood_Icon",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'\"",
+					"quality": 0,
+					"quantity": 3000,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A013":
+		{
+			"name": "Pólvora",
+			"description": "",
+			"price": 1500,
+			"pricetype": "gold",
+			"icon": "/Game/PrimalEarth/CoreBlueprints/Resources/Icons/Gunpowder_Icon.Gunpowder_Icon",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gunpowder.PrimalItemResource_Gunpowder'\"",
+					"quality": 0,
+					"quantity": 3000,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A014":
+		{
+			"name": "Perlas",
+			"description": "",
+			"price": 3000,
+			"pricetype": "gold",
+			"icon": "/Game/PrimalEarth/CoreBlueprints/Resources/Icons/Pearl_Icon.Pearl_Icon",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'\"",
+					"quality": 0,
+					"quantity": 3000,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A015":
+		{
+			"name": "Perla negra",
+			"description": "",
+			"price": 3000,
+			"pricetype": "gold",
+			"icon": "/Game/PrimalEarth/CoreBlueprints/Resources/Icons/BlackPearl_Icon.BlackPearl_Icon",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'\"",
+					"quality": 0,
+					"quantity": 1000,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A016":
+		{
+			"name": "Planta tipo X",
+			"description": "",
+			"price": 3000,
+			"pricetype": "gold",
+			"icon": "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/Icons/AutoTurret_Icon.AutoTurret_Icon",
+			"group": "item",
+			"items": [
+				{
+					"code": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TurretPlant.PrimalItemStructure_TurretPlant'\"",
+					"quality": 0,
+					"quantity": 10,
+					"fixed quality": false,
+					"is blueprint": false
+				}
+			]
+		},
+		"A017":
+		{
+			"name": "Savia",
+			"description": "",
+			"price": 150,
+			"pricetype": "gold",
+			"icon": "",
+			"group": "item"
+		}
+	}
+}
