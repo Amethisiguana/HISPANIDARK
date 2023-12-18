@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "INICIO ",
           "title1": "¡BIENVENIDO A HISPANIDARK!",
-          "text1":"ADMINISTRADORES:
+          "text1": "<TextStyle.Green>Automated Ark</>",
           "imageurl": "https://i.imgur.com/v6KLFYM.jpeg"
         }
       },
